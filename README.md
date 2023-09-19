@@ -51,6 +51,9 @@
 # Tableau Public Workbook
 - https://public.tableau.com/app/profile/alexander.charbonneau/viz/Project_4_Chase/DensityofLoanApplications?publish=yes
 
+# Google Sheets Presentation
+- https://docs.google.com/presentation/d/1CCX1zAXVlhYr9OQE_r6StdWVr2xGkIgNrWp2kcxNCng/edit?usp=sharing
+
 # Breakdown of what we did:
     - This repository contains a Python script that implements, trains, and evaluates a machine learning model. The script also includes optimization steps and documentation of the process. Below, we provide a breakdown of how the project fulfills the specified requirements.
     - The machine learning model is implemented in the machine_learning.ipynb notebook.
